@@ -24,6 +24,8 @@ El sistema se diseña para controlar  **4 unidades InRow** , cada una refrigeran
 * Emitir alertas ante condiciones anómalas
 * Funcionar como una  **política automática** , no como un simple script
 
+[Ver código Python completo](https://github.com/Diegoagodoy/sistema_autonomo_refrigeracion/blob/05d46c109162cc3bfa8f0d42b5b0dcca0564d2ed/pod_automation.py)
+
 ---
 
 ## Arquitectura física y sensorica del POD

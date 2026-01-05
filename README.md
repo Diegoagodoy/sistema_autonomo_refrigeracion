@@ -31,7 +31,7 @@ El sistema se diseña para controlar  **4 unidades InRow** , cada una refrigeran
 El siguiente diagrama representa la disposicion fisica del POD, la circulacion de aire
 y la ubicación de sensores y unidades InRow utilizados por el sistema de control autonomo.
 
-![Arquitectura del POD con sensores](imagenes/pod_diagrama.png)
+![Arquitectura del POD con sensores](https://github.com/Diegoagodoy/sistema_autonomo_refrigeracion/blob/60638cb2f6a03e75601e84f0f45ec510f403b53b/Imagenes/pod_diagrama.png)
 
 ### Leyenda de sensores y actuadores
 

@@ -309,3 +309,5 @@ La eficiencia energética no se persigue a costa del riesgo operativo, sino como
 * Pausar/ Accionar por mantenimiento
 * Front para visualizacion DB y Sistema de control
 * Prediccion termica (ML)
+
+[Ver código Python completo](https://github.com/Diegoagodoy/sistema_autonomo_refrigeracion/blob/05d46c109162cc3bfa8f0d42b5b0dcca0564d2ed/pod_automation.py)
